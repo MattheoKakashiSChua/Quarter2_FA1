@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    text-align: center; 
+    width: 75%; 
+    margin: 15%; 
+    margin: 0px;
+    border: 2px solid #0000ff; 
+}  
+
+h1 { 
+    padding: 0px; 
+    margin-top: 20px; 
+    background-color: #D3D3D3; 
+}
+
+h2 {
+    background-color: #D3D3D3;  
+    margin: 0px; 
+    padding: 0px; 
+    font-style: italic;
+}
